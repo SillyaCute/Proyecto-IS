@@ -1,0 +1,7 @@
+Casos de uso (2ª iteración):
+
+1. Que los vendedores puedan decidir a quien le venden el producto de entre todas las contraofertas que le han ofrecido los compradores.
+2. Cobrar al comprador el precio del producto adquirido.
+3. Que el cliente tenga la posibilidad de realizar búsquedas de productos mediante filtros como categorías, precio, etc. Además de solo por el nombre.
+4. Que los compradores puedan dejar comentarios en los productos y en los vendedores, con un sistema de puntos para evaluarlos positivamente/negativamente.
+5. Que el cliente pueda realizar reportes de otros usuarios, como vendedores fraudulentos o compradores morosos.
