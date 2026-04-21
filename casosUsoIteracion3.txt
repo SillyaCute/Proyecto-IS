@@ -1,0 +1,5 @@
+Casos de uso de la tercera iteración:
+1. Modo administrador: Una cuenta de administrador puede ser creada con el usuario, Gmail, contraseña de cuenta y contraseña de servicio (que sería una contraseña que tenga la empresa). Desde este modo, el usuario puede borrar ofertas y comentarios, y también puede resolver reportes borrando las cuentas de los usuarios reportados (si lo ve necesario).
+2. Visualizar Perfil: Cuando un comprador esté viendo una oferta, también podrá ver el perfil del vendedor si es que lo desea, pudiendo ver su rating y otras ofertas que tenga.
+3. Venta/Compra múltiple: El vendedor podrá hacer ventas de varias cantidades. Por ejemplo para vender naranjas antes tendría que crear muchas ofertas para cada naranja, ahora podría crear una oferta de naranjas y decir cuantas hay. El comprador por tanto podrá decir cuantas de esa cantidad quiere.
+4. Carrito: El comprador ahora puede añadir múltiples productos al carrito para hacer una compra conjunta en vez de tener que comprar de uno en uno.
